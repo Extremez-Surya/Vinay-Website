@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Animated-Login-Page",
+    "desc": "Animated Login Page using HTML and CSS. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "assets/images/projects/Designing-an-Animated-Login-Page-Using-HTML-and-CSS.png",
+    "category": "html",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/Designing-an-Animated-Login-Page-Using-HTML-and-CSS",
+      "code": "https://github.com/TheExtremezCoder/Designing-an-Animated-Login-Page-Using-HTML-and-CSS"
+    }
+  },
+  {
+    "name": "Modern-Login-Signup-Page",
+    "desc": "Modern Login and Signup Page using HTML and CSS. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "Designing-a-Modern-Login-and-Signup-Website-Page-Using-HTML-and-CSS",
+    "category": "html",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/Designing-a-Modern-Login-and-Signup-Website-Page-Using-HTML-and-CSS",
+      "code": "https://github.com/TheExtremezCoder/Designing-a-Modern-Login-and-Signup-Website-Page-Using-HTML-and-CSS"
+    }
+  },
+  {
+    "name": "My GitHub Profile",
+    "desc": "This is my GitHub profile where you can find all my projects and contributions. Feel free to explore and contribute. :)",
+    "image": "github",
+    "category": "all",
+    "links": {
+      "view": "https://github.com/Extremez-Surya",
+      "code": "https://github.com/Extremez-Surya"
+    }
+  },
+  {
+    "name": "MuseHeart-MusicBot",
+    "desc": "MuseHeart is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "MuseHeart-MusicBot",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/Vinay13Kumar/MuseHeart-MusicBot",
+      "code": "https://github.com/Vinay13Kumar/MuseHeart-MusicBot"
+    }
+  },
+  {
+    "name": "V-5.0.0 Discord Music Bot",
+    "desc": "V-5.0.0 is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "V-5.0.0 Discord Music Bot",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/Vinay-Kumar1/tc-music-bot",
+      "code": "https://github.com/Vinay-Kumar1/tc-music-bot"
+    }
+  },
+  {
+    "name": "TUNE-WAVE-LEAK-CODE",
+    "desc": "TUNE WAVE LEAK MUSIC CODE is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "TUNE-WAVE-LEAK-MUSIC-CODE",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/THE-EXTREMEZ---TUNE-WAVE-LEAK-MUSIC-CODE",
+      "code": "https://github.com/TheExtremezCoder/THE-EXTREMEZ---TUNE-WAVE-LEAK-MUSIC-CODE"
+    }
+  },
+  {
+    "name": "SIMPLE-DISCORD-BOT",
+    "desc": "Simple Discord Bot is a Discord Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "SIMPLE-DISCORD-MUSIC-BOT",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT",
+      "code": "https://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT"
+    }
+  },
+  {
+    "name": "RYTHM-x-PROBOT-BOT",
+    "desc": "RYTHM x PROBOT BOT is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "DISCORD-MUSIC-BOT-LIKE-RYTHM-x-PROBOT-WITHOUT-CODING",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/DISCORD-MUSIC-BOT-LIKE-RYTHM-x-PROBOT-WITHOUT-CODING",
+      "code": "https://github.com/TheExtremezCoder/DISCORD-MUSIC-BOT-LIKE-RYTHM-x-PROBOT-WITHOUT-CODING"
+    }
+  },
+  {
+    "name": "NO-LAVALINK-MUSIC-BOT",
+    "desc": "NO LAVALINK MUSIC BOT is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "SIMPLE-DISTUBE-MUSIC-BOT-NO-LAVALINK-NEEDED",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/SIMPLE-DISTUBE-MUSIC-BOT-NO-LAVALINK-NEEDED",
+      "code": "https://github.com/TheExtremezCoder/SIMPLE-DISTUBE-MUSIC-BOT-NO-LAVALINK-NEEDED"
+    }
+  },
+  {
+    "name": "NO-PREFIX-MUSIC-BOT",
+    "desc": "NO PREFIX MUSIC BOT is a Discord Music Bot that can play music from YouTube and Spotify. It has a lot of features like queue, skip, pause, resume, etc.",
+    "image": "DISCORD-NO-PREFIX-MUSIC-BOT-WITH-PREMIUM-FEATURES",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/DISCORD-NO-PREFIX-MUSIC-BOT-WITH-PREMIUM-FEATURES",
+      "code": "https://github.com/TheExtremezCoder/DISCORD-NO-PREFIX-MUSIC-BOT-WITH-PREMIUM-FEATURES"
+    }
+  },
+  {
+    "name": "DISCORD-SIMPLE-GIVEAWAY-BOT",
+    "desc": "Simple Giveaway Bot is a Discord Bot that can create and manage giveaways. It has a lot of features like create, edit, end, reroll, etc.",
+    "image": "DISCORD-SIMPLE-GIVEAWAY-BOT",
+    "category": "discord",
+    "links": {
+      "view": "https://github.com/TheExtremezCoder/DISCORD-SIMPLE-GIVEAWAY-BOT",
+      "code": "https://github.com/TheExtremezCoder/DISCORD-SIMPLE-GIVEAWAY-BOT"
+    }
+  }
+]

@@ -1,3 +1,7 @@
 <div align="center">
 
-Made with ❤️ by [The Extremez (Vinay Kumar)](https://www.youtube.com/@theextremez2.0?sub_confirmation=1)
+<img src="./assets/images/others/banner.gif">
+
+Made with ❤️ by [Vinay Kumar (The Extremez)](https://www.youtube.com/@theextremez2.0?sub_confirmation=1)
+
+---
